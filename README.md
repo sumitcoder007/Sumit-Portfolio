@@ -1,18 +1,25 @@
-# Personal Portfolio
+# Open README.md in editor (optional)
+notepad README.md   # or use any editor like VS Code: code README.md
+
+# Or directly append content via echo
+echo "# Personal Portfolio
 
 **Overview:**  
-This is a modern, interactive personal portfolio website built using **HTML, CSS, JavaScript**, and **GSAP (GreenSock Animation Platform)**. The website highlights my projects, skills, and professional experience with smooth animations and engaging interactions.
+A modern, interactive personal portfolio showcasing projects, skills, and experience, built with **HTML, CSS, JavaScript**, and **GSAP** for smooth animations.  
 
 **Key Features:**  
-- **GSAP Animations:** Smooth entrance, exit, and scroll-triggered animations for enhanced user experience.  
-- **Interactive Elements:** Hover effects on buttons, cards, and project thumbnails.  
-- **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices.  
-- **Project Showcase:** Displays projects with descriptions, technologies used, and live links.
+- Animated UI with **GSAP**  
+- Interactive hover effects  
+- Fully responsive design  
+- Project showcase with descriptions and live links  
 
-**Technologies Used:**  
-- HTML5, CSS3, JavaScript (ES6+)  
-- **GSAP** for animations  
-- Responsive layouts using Flexbox and Grid  
+**Technologies:**  
+HTML5, CSS3, JavaScript (ES6+), GSAP, Flexbox, Grid  
 
 **Purpose:**  
-Demonstrates frontend development skills with a focus on creating interactive, animated, and user-friendly web experiences.
+Highlights frontend development skills through engaging, animated, and user-friendly web experiences." >> README.md
+
+# Stage, commit, and push
+git add README.md
+git commit -m "Add professional portfolio description"
+git push
