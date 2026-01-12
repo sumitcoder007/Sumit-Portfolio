@@ -1,8 +1,4 @@
-# Open README.md in editor (optional)
-notepad README.md   # or use any editor like VS Code: code README.md
-
-# Or directly append content via echo
-echo "# Personal Portfolio
+ ## Personal Portfolio
 
 **Overview:**  
 A modern, interactive personal portfolio showcasing projects, skills, and experience, built with **HTML, CSS, JavaScript**, and **GSAP** for smooth animations.  
